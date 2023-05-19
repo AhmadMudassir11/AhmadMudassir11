@@ -7,14 +7,13 @@ I'm Ahmad Mudassir! I'm a **Full Stack Developer**:iphone:, looking to solve **r
 
 Welcome to my GitHub profile! I am a MERN stack developer with experience in building web applications using MongoDB, Express.js, React.js, and Node.js. Additionally, I have a solid understanding of backend development using .NET and Entity Framework.
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-</p>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AhmadMudassir&show_icons=true&count_private=true&theme=dark"/>
 </p>
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+</p>
 
 ## 🔭 My Expertise
 
