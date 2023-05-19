@@ -1,9 +1,5 @@
 # Hey there! :wave::smiley:
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AhmadMudassir&show_icons=true&count_private=true&theme=dark"/>
-</p>
-
 <!--Introduction -->
 I'm Ahmad Mudassir! I'm a **Full Stack Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
@@ -15,6 +11,9 @@ Welcome to my GitHub profile! I am a MERN stack developer with experience in bui
 	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 </p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AhmadMudassir&show_icons=true&count_private=true&theme=dark"/>
+</p>
 
 
 ## 🔭 My Expertise
