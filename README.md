@@ -1,10 +1,17 @@
-<h1 align="center">Hi , I'm Ahmad Mudassir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Hey there! :wave::smiley:
+
+<!--Introduction -->
+I'm Ahmad Mudassir! I'm a **Full Stack Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+<br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 Welcome to my GitHub profile! I am a MERN stack developer with experience in building web applications using MongoDB, Express.js, React.js, and Node.js. Additionally, I have a solid understanding of backend development using .NET and Entity Framework.
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 	
+	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 </p>
+
+
 
 ## 🔭 My Expertise
 
