@@ -11,9 +11,12 @@ Welcome to my GitHub profile! I am a MERN stack developer with experience in bui
     <img src="https://github-readme-stats.vercel.app/api?username=AhmadMudassir&show_icons=true&count_private=true&theme=dark"/>
 </p>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=smir45" alt="smir45" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/smir45?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/smir45?label=Stars" alt="Total Stars">
 </p>
+
 
 ## 🔭 My Expertise
 
